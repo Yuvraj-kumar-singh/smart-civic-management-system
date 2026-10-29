@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import './App.css'
 
-const API = 'http://localhost:8080/api'
+const API = 'https://smart-civic-management-backend.onrender.com/api'
 
 // Naya department chahiye to bas yaha ek naam jod do
 const DEPARTMENTS = [
